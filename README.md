@@ -1,6 +1,6 @@
-<img align="right" width="360" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding animation" />
-
 ### Hey, I'm Naim 👋
+
+<img align="right" width="300" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding animation" />
 
 Full-stack developer who has shipped **100+ apps** for clients worldwide as a
 **Top Rated freelancer** on Fiverr & Upwork, and later led full-stack development
